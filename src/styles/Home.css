@@ -1,0 +1,338 @@
+.navbar {
+    background-color: #171717fd;
+
+}
+
+.navbar-brand {
+    color: rgb(52, 51, 51);
+}
+
+/* .navbar-brand-d{
+    font-style: Blacksword;
+} */
+
+.block {
+    width: 540px;
+    height: 510px;
+}
+
+.foodcard {
+    background-image: url('../Images/foodcard.png')
+}
+
+.voluntaree {
+    background-image: url('../Images/volunteer.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    color: #4B4848;
+    opacity: 1;
+}
+
+.text {
+    text-size-adjust: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.88px;
+
+}
+
+.textcolor {
+    text-align: left;
+    font: normal normal bold 30px/40px Segoe UI;
+    letter-spacing: 1.05px;
+    color: #01BFBD;
+    opacity: 1;
+}
+
+.navbar {
+    background-color: transparent;
+
+
+}
+
+.navbar-brand {
+    color: rgb(9, 9, 9);
+}
+
+/* .navbar-brand-d{
+    font-style: Blacksword;
+} */
+
+.block {
+    width: 540px;
+    height: 510px;
+}
+
+.hands {
+
+    background-image: url('../Images/blur.jpg');
+    height: 40vh;
+    /* filter: blur(3px); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.hands1 {
+    background-image: url('../Images/hands.png');
+
+    height: 50vh;
+    /* filter: blur(3px); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.data {
+    display: flex;
+    text-align: center;
+}
+
+.twobtns {
+    align-items: center;
+}
+
+.semi {
+    color: aqua;
+}
+
+.ccc {
+    color: white;
+    top: 799px;
+    border: 1px solid var(--unnamed-color-c5c5c5);
+    background: #01BFBD 0% 0% no-repeat padding-box;
+    border: 2px solid #C5C5C5;
+    opacity: 1;
+
+}
+
+.Login2 {
+    color: rgb(23, 23, 23);
+    text-decoration: none;
+}
+
+.navtext {
+    top: 173px;
+    left: 101px;
+    width: 1099px;
+    height: 99px;
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal normal 20px/30px Segoe UI;
+    letter-spacing: 0.88px;
+    color: #030303;
+    opacity: 1;
+}
+.SignUp{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.newnav {
+    font: normal normal normal 15px/25px Segoe UI;
+    letter-spacing: 0.88px;
+    color: #707070CC;
+    opacity: 1;
+}
+
+.voluntersteam {
+
+    /* UI Properties */
+    background: var(--unnamed-color-ffb163) 0% 0% no-repeat padding-box;
+    border: 1px solid var(--unnamed-color-fff700);
+    background: #FFB163 0% 0% no-repeat padding-box;
+    /* border: 1px solid #FFF700; */
+    /* opacity: 1; */
+    border-top-right-radius: 500px;
+    border-top-left-radius: 500px;
+
+}
+
+.voluntersteam1 {
+    /* border-top-right-radius: 100px;
+    border-top-left-radius: 100px */
+
+}
+
+.textcolor {
+    margin-left: "-500px";
+}
+
+.Proident {
+    color: var(--unnamed-color-4b4848);
+    text-align: left;
+    font: normal normal bold 25px/37px Segoe UI;
+    letter-spacing: 1.23px;
+    color: #4B4848;
+    opacity: 1;
+}
+
+.Duis {
+    color: var(--unnamed-color-4b4848);
+    text-align: left;
+    font: normal normal normal 25px/33px Segoe UI;
+    letter-spacing: 0.88px;
+    color: #4B4848;
+    opacity: 1;
+}
+
+.Lopersum {
+    color: var(--unnamed-color-4b4848);
+    text-align: left;
+    font: normal normal normal 25px/30px Segoe UI;
+    letter-spacing: 0.88px;
+    color: #4B4848;
+    opacity: 1;
+}
+
+.markgr {
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal bold 35px/47px Segoe UI;
+    letter-spacing: 1.23px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.founder {
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal 600 25px/33px Segoe UI;
+    letter-spacing: 0.88px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.cillum {
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal normal 25px/33px Segoe UI;
+    letter-spacing: 0.88px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.Contact {
+    top: 5443px;
+    left: 36px;
+    width: 228px;
+    height: 47px;
+    color: var(--unnamed-color-ffffff);
+    text-align: left;
+    font: normal normal bold 35px/47px Segoe UI;
+    letter-spacing: 1.23px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+/* .form22{
+top: 5630px;
+left: 40px;
+width: 142px;
+height: 54px;
+text-align: left;
+font: normal normal 600 20px/27px Segoe UI;
+letter-spacing: 0.7px;
+color: #FFFFFF99;
+opacity: 1;
+border-spacing: 1cap;
+} */
+   
+    .formd  input[type=text] , textarea {
+        background-color : #01BFBD;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    color: var(--unnamed-color-ffffff);
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(236, 229, 229);
+    color: #FFFFFF;
+}
+::placeholder {
+    color: rgb(238, 229, 229);
+    opacity: 1; /* Firefox */
+  }
+  .sss{
+    top: 5899px;
+left: 393px;
+width: 554px;
+height: 60px;
+background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+  }
+
+  .first{
+    top: 6090px;
+left: 39px;
+width: 105px;
+height: 27px;
+color: var(--unnamed-color-c5c5c5);
+text-align: left;
+font: normal normal normal 20px/27px Segoe UI;
+letter-spacing: 0.1px;
+color: #C5C5C5;
+opacity: 1;
+}
+.second{
+    top: 6090px;
+left: 292px;
+width: 207px;
+height: 27px;
+color: var(--unnamed-color-c5c5c5);
+text-align: left;
+font: normal normal normal 20px/27px Segoe UI;
+letter-spacing: 0.1px;
+color: #C5C5C5;
+opacity: 1;
+}
+.third{
+    top: 6090px;
+left: 570px;
+width: 200px;
+height: 27px;
+color: var(--unnamed-color-c5c5c5);
+text-align: left;
+font: normal normal normal 20px/27px Segoe UI;
+letter-spacing: 0.1px;
+color: #C5C5C5;
+opacity: 1;
+}
+.forth{
+    top: 6099px;
+    left: 869px;
+    width: 340px;
+    height: 108px;
+    color: var(--unnamed-color-c5c5c5);
+    text-align: left;
+    font: normal normal normal 20px/27px Segoe UI;
+    letter-spacing: 0.1px;
+    color: #C5C5C5;
+    opacity: 1; 
+}
+.fifth{
+    top: 6319px;
+left: 485px;
+width: 309px;
+height: 24px;
+color: var(--unnamed-color-c5c5c5);
+text-align: left;
+font: normal normal normal 18px/24px Segoe UI;
+letter-spacing: 0.1px;
+color: #C5C5C5;
+opacity: 1;
+}
+.main{
+    top: 6019px;
+left: 0px;
+width: 1550px;
+height: 280px;
+padding-top: 50px;
+background: var(--unnamed-color-707070) 0% 0% no-repeat padding-box;
+border: 1px solid var(--unnamed-color-707070);
+background-color: #707070;
+border: 1px solid #707070;
+opacity: 1;
+}
